@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net" modified="2023-06-28T05:50:10.396Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ExyVTgeKaZphLQKVAW14" version="21.5.1" type="github">
+  <diagram name="第 1 页" id="L_sd85XvLTSLJeMJPkPH">
+    <mxGraphModel dx="1700" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="o9EetkC1UQInopGngO3t-11" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=block;" edge="1" parent="1" source="o9EetkC1UQInopGngO3t-1" target="o9EetkC1UQInopGngO3t-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o9EetkC1UQInopGngO3t-15" value="通知配载进度" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="o9EetkC1UQInopGngO3t-11">
+          <mxGeometry x="-0.2795" relative="1" as="geometry">
+            <mxPoint x="23" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o9EetkC1UQInopGngO3t-20" value="获取计划货物重量信息&lt;br&gt;用于吨控" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="o9EetkC1UQInopGngO3t-11">
+          <mxGeometry x="-0.1261" y="1" relative="1" as="geometry">
+            <mxPoint x="-3" y="21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o9EetkC1UQInopGngO3t-1" value="配载复核系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o9EetkC1UQInopGngO3t-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=flexArrow;startArrow=block;" edge="1" parent="1" source="o9EetkC1UQInopGngO3t-2" target="o9EetkC1UQInopGngO3t-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o9EetkC1UQInopGngO3t-16" value="发送配载相关指令、获取飞机配载信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="o9EetkC1UQInopGngO3t-3">
+          <mxGeometry x="0.2381" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o9EetkC1UQInopGngO3t-9" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="o9EetkC1UQInopGngO3t-2" target="o9EetkC1UQInopGngO3t-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o9EetkC1UQInopGngO3t-10" value="获取舱单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="o9EetkC1UQInopGngO3t-9">
+          <mxGeometry x="0.0807" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o9EetkC1UQInopGngO3t-2" value="离港系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o9EetkC1UQInopGngO3t-4" value="智慧物流系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o9EetkC1UQInopGngO3t-12" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=block;" edge="1" parent="1" source="o9EetkC1UQInopGngO3t-5" target="o9EetkC1UQInopGngO3t-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o9EetkC1UQInopGngO3t-17" value="获取配载进度" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="o9EetkC1UQInopGngO3t-12">
+          <mxGeometry x="-0.5223" relative="1" as="geometry">
+            <mxPoint x="40" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o9EetkC1UQInopGngO3t-5" value="贵阳信息公司mq" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="220" y="282.5" width="40" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="o9EetkC1UQInopGngO3t-21" value="发送计划货物重量信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="369.9971428571431" y="340" as="geometry">
+            <mxPoint x="-2" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
