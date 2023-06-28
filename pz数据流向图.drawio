@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T06:16:45.125Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="-pe-4dOhtjvoGDbsMHwK" version="21.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T06:17:29.553Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="0uu1Hw3JaoIzpJhJyUu4" version="21.5.1" type="github">
   <diagram name="第 1 页" id="L_sd85XvLTSLJeMJPkPH">
-    <mxGraphModel dx="1540" dy="291" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2165" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,17 +61,8 @@
         <mxCell id="3EDoQNshKmax-nDiu6an-2" value="贵阳机场信息公司mq" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="175" y="340" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3EDoQNshKmax-nDiu6an-3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-45" y="490" width="30" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="3EDoQNshKmax-nDiu6an-4" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="519" y="464" width="20" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="3EDoQNshKmax-nDiu6an-5" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="572.2" y="464" width="30" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="3EDoQNshKmax-nDiu6an-6" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-105" y="490" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3EDoQNshKmax-nDiu6an-11" value="配载室工作人员" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-110" y="564" width="110" height="30" as="geometry" />
@@ -90,6 +81,15 @@
         </mxCell>
         <mxCell id="3EDoQNshKmax-nDiu6an-18" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
           <mxGeometry x="564.4000000000001" y="379.99999999999994" width="45.6" height="61.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="3EDoQNshKmax-nDiu6an-25" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="577.2" y="464" width="20" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="3EDoQNshKmax-nDiu6an-26" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="490" width="20" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="3EDoQNshKmax-nDiu6an-27" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="490" width="20" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
